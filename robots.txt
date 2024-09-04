@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://mambowick.github.io/sitemap/sitemap.txt
